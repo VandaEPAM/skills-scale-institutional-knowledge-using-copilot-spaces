@@ -8,7 +8,7 @@ OctoAcme follows a structured yet flexible approach to project management that e
 
 Each phase has defined deliverables, decision gates, and quality checkpoints. This ensures projects deliver measurable outcomes while maintaining team velocity and psychological safety.
 
-Central to our approach are clearly defined **roles and responsibilities**. Each project is led by a Project Manager (coordinating delivery, schedules, and risk) and a Product Manager (defining outcomes and prioritizing the backlog). Developers build and test features collaboratively, QA validates acceptance criteria, and stakeholders provide input and approvals. This structure ensures accountability while promoting cross-functional collaboration. Our personas framework helps teams understand expectations and communication patterns for each role, making onboarding faster and reducing ambiguity in decision-making.
+Central to our approach are clearly defined **roles and responsibilities**. Each project is led by a Project Manager (coordinating delivery, schedules, and risk) and a Product Manager (defining outcomes and prioritizing the backlog). Developers build and test features collaboratively, QA/Testing Engineers validate acceptance criteria, UX Designers ensure user-centered experiences, DevOps Engineers maintain infrastructure and deployment pipelines, Business Analysts bridge business and technical requirements, and Customer Success/Support Engineers advocate for customer needs. This expanded structure ensures accountability while promoting cross-functional collaboration. Our personas framework helps teams understand expectations and communication patterns for each role, making onboarding faster and reducing ambiguity in decision-making.
 
 **Communication and escalation** follow predictable cadences designed to maintain alignment without creating overhead. Weekly PM-PdM syncs ensure strategic alignment, twice-weekly standups keep the delivery team coordinated, and monthly stakeholder updates provide visibility into progress and risks. We maintain a Risk Register to proactively identify and mitigate issues, with a clear three-level escalation path (team → PM → Product Lead → Sponsor) for blockers that cannot be resolved at the team level. Incident communication follows blameless postmortem practices, converting failures into learning opportunities.
 
@@ -40,7 +40,10 @@ Standardizes production releases to reduce risk, covering release types (patch/m
 Framework for capturing learnings and converting them into actionable improvements after sprints, releases, or incidents, including action item tracking and improvement culture practices.
 
 ### [Roles & Personas](octoacme-roles-and-personas.md)
-Detailed definitions of key roles (Developers, Product Managers, Project Managers) including responsibilities, goals, and typical communication patterns to clarify expectations and improve collaboration.
+Detailed definitions of key roles (Developers, Product Managers, Project Managers, QA/Testing Engineers, UX Designers, DevOps Engineers, Business Analysts, Customer Success/Support) including responsibilities, goals, and typical communication patterns to clarify expectations and improve collaboration. Includes a role interaction matrix showing collaboration touchpoints.
+
+### [Role Onboarding Checklist](role-onboarding-checklist.md)
+Comprehensive onboarding checklist for new team members joining OctoAcme projects. Provides role-specific guidance and cross-functional collaboration expectations to accelerate onboarding and reduce ambiguity.
 
 ---
 
