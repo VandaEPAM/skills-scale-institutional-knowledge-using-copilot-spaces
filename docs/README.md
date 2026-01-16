@@ -4,7 +4,9 @@ Welcome to the OctoAcme project management documentation hub. This directory con
 
 ## Overview
 
-OctoAcme follows a structured yet flexible approach to project management that emphasizes customer value, iterative delivery, and clear ownership. Our project lifecycle consists of five key phases: **Initiation** (validating business need and stakeholder alignment), **Planning** (breaking work into actionable increments), **Execution & Tracking** (day-to-day delivery with quality gates), **Release** (controlled deployment to production), and **Retrospective** (capturing learnings for continuous improvement). Each phase has defined deliverables, decision gates, and quality checkpoints to ensure projects deliver measurable outcomes while maintaining team velocity and psychological safety.
+OctoAcme follows a structured yet flexible approach to project management that emphasizes customer value, iterative delivery, and clear ownership. Our project lifecycle consists of five key phases: **Initiation** (validating business need and stakeholder alignment), **Planning** (breaking work into actionable increments), **Execution & Tracking** (day-to-day delivery with quality gates), **Release** (controlled deployment to production), and **Retrospective** (capturing learnings for continuous improvement). 
+
+Each phase has defined deliverables, decision gates, and quality checkpoints. This ensures projects deliver measurable outcomes while maintaining team velocity and psychological safety.
 
 Central to our approach are clearly defined **roles and responsibilities**. Each project is led by a Project Manager (coordinating delivery, schedules, and risk) and a Product Manager (defining outcomes and prioritizing the backlog). Developers build and test features collaboratively, QA validates acceptance criteria, and stakeholders provide input and approvals. This structure ensures accountability while promoting cross-functional collaboration. Our personas framework helps teams understand expectations and communication patterns for each role, making onboarding faster and reducing ambiguity in decision-making.
 
